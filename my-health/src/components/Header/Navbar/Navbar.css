@@ -5,26 +5,28 @@
   background-color: #228b22;
   justify-content: start;
   height: 100%;
+  overflow: hidden;
+
+ 
 }
 
 .navbar-child {
-  color: #ae662b;
+  color: 	#EEE8AA;
   display: flex;
   width: 25%;
   padding: 10px;
   justify-content: center;
-  border: 2px solid #2d2d2d;
-  border-radius: 5px;
+  border: 2px solid #EEE8AA;
   font-size: 16px;
-  margin: 1px;
+  font-weight: 700;
+  
 }
 
 .hovered {
-  color: #f90;
+  color:#4D4133;
   display: flex;
-
   padding: 10px;
   justify-content: center;
   cursor: pointer;
-  border-radius: 5px;
+  border: 2px solid #228b22;
 }
