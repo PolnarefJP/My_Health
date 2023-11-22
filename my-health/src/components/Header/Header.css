@@ -1,0 +1,9 @@
+.header {
+  display: grid;
+  grid-template-rows: 4fr 1fr;
+}
+
+.font {
+  background: url(../../../media/Header.jpg);
+ 
+}

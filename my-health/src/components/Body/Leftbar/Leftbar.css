@@ -1,0 +1,9 @@
+.leftbar {
+  display: flex;
+
+  width: 25%;
+  height: 1000px;
+  background-color: #212121;
+
+  
+}

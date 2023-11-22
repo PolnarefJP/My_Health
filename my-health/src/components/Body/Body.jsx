@@ -1,6 +1,7 @@
 import React from "react";
-import Leftbar from "./Leftbar";
-import Content from "./Content";
+import Leftbar from "./Leftbar/Leftbar";
+import Content from "./Content/Content";
+import "./Body.css";
 
 const Body = () => {
   return (
